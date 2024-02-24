@@ -1,0 +1,18 @@
+1. Encapsulation: Wrapping the fields(variables) and methods into one unit.
+
+best example is a class.
+
+2. Inheritance: Reusing the properties from super/base/parent class to sub/derived/child class.
+
+Task: make a document on types of inheritance(we have 5 inheritance types) with examples.
+
+3. Polymorphism: one entity in many forms.
+
+	=> static/compile time polymorphism: we can implement this type of polymorphism with,
+		1. constructor overloading:
+		2. method overloading
+		
+	=> dynamic/run time polymorphism: we can implement this type of polymorphism with,
+		1. method overriding
+
+4. Abstraction
